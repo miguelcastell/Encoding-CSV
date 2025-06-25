@@ -3,5 +3,5 @@
 ✅Salva com UTF-8, ideal para uso em automações de envio de mensagens. 
 
 🛠️ Tecnologias usadas Python 3.11+  pandas    
-🎓 Estudante de IA e dados 📧 Contato: miguel@email.com
+🎓 Estudante de IA e dados 
 👨‍💻 Autor Miguel Mantoan Castellani

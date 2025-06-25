@@ -1,0 +1,8 @@
+Para usar é muito simples!
+
+1° Passo - Baixe você mesmo os usuários e telefones que você quer usar, faça pelo Tareffa, abra um chamado se precisar.
+2° Passo - Por preferência minha, eu peguei, salvei o arquivo em xmls (invés de csv), para alterar alguns dados, como retirar duplicatas e etc.
+3° Passo - Coloque o arquivo a ser transformado na pasta na qual o .py está. Não salve com caracteres especiais, salve simples.
+4° Passo - Abra o código no VSCode de preferência, para ser mais rápido, mude o nome da lista a ser aberta e o nome da planilha que sairá na lista corrigida
+5° Passo - Após a transformação, a nova planilha sairá como CSV, e os telefones podem estar errados, confira com a primeira planilha xmls, só copiar e colar.
+6° Passo - Sua lista estará pronta para uso!

@@ -1,4 +1,4 @@
-# 🧹 Conversor de Encoding CSV - UTF-8 para uso no WhatsApp API
+# 🧹 Conversor de Encoding CSV - UTF-8 para uso no WhatsApp através da API da Meta Developers
 
 ![Status](https://img.shields.io/badge/status-funcional-success)
 ![Python](https://img.shields.io/badge/python-3.11-blue)

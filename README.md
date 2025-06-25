@@ -52,8 +52,8 @@ python corrigir_csv.py
 
 ## 👨‍💻 Autor
 
-**Miguel Mantoan Castellani**  
-💼 Sweet Home • 🎓 Estudante de IA e dados
+**Miguel Mantoan Castellani - Analista de Sistema**  
+💼 Saga Contabilidade • 🎓 Estudante de IA e dados
 
 ---
 
